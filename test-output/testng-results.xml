@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-12T10:16:12 IST" name="Default suite" finished-at="2023-04-12T10:16:37 IST" duration-ms="24293">
+    <groups>
+    </groups>
+    <test started-at="2023-04-12T10:16:12 IST" name="Default test" finished-at="2023-04-12T10:16:37 IST" duration-ms="24293">
+      <class name="TC_001.page_test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TC_001.page_test@59fd97a8]" started-at="2023-04-12T10:16:12 IST" name="setup" finished-at="2023-04-12T10:16:16 IST" duration-ms="4111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VarifyTitle()[pri:0, instance:TC_001.page_test@59fd97a8]" started-at="2023-04-12T10:16:16 IST" name="VarifyTitle" finished-at="2023-04-12T10:16:17 IST" duration-ms="629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VarifyTitle -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TC_001.page_test@59fd97a8]" started-at="2023-04-12T10:16:17 IST" name="close" finished-at="2023-04-12T10:16:17 IST" duration-ms="281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TC_001.page_test@59fd97a8]" started-at="2023-04-12T10:16:17 IST" name="setup" finished-at="2023-04-12T10:16:21 IST" duration-ms="3769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyLogo()[pri:1, instance:TC_001.page_test@59fd97a8]" started-at="2023-04-12T10:16:21 IST" name="VerifyLogo" finished-at="2023-04-12T10:16:21 IST" duration-ms="66" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLogo -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TC_001.page_test@59fd97a8]" started-at="2023-04-12T10:16:21 IST" name="close" finished-at="2023-04-12T10:16:21 IST" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TC_001.page_test@59fd97a8]" started-at="2023-04-12T10:16:21 IST" name="setup" finished-at="2023-04-12T10:16:25 IST" duration-ms="3750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:2, instance:TC_001.page_test@59fd97a8]" started-at="2023-04-12T10:16:25 IST" name="login" finished-at="2023-04-12T10:16:28 IST" duration-ms="2984" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TC_001.page_test@59fd97a8]" started-at="2023-04-12T10:16:28 IST" name="close" finished-at="2023-04-12T10:16:28 IST" duration-ms="245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TC_001.page_test@59fd97a8]" started-at="2023-04-12T10:16:28 IST" name="setup" finished-at="2023-04-12T10:16:31 IST" duration-ms="2763" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Screen()[pri:3, instance:TC_001.page_test@59fd97a8]" started-at="2023-04-12T10:16:31 IST" name="Screen" finished-at="2023-04-12T10:16:32 IST" duration-ms="735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Screen -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TC_001.page_test@59fd97a8]" started-at="2023-04-12T10:16:32 IST" name="close" finished-at="2023-04-12T10:16:32 IST" duration-ms="250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TC_001.page_test@59fd97a8]" started-at="2023-04-12T10:16:32 IST" name="setup" finished-at="2023-04-12T10:16:36 IST" duration-ms="4140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="scroll()[pri:4, instance:TC_001.page_test@59fd97a8]" started-at="2023-04-12T10:16:36 IST" name="scroll" finished-at="2023-04-12T10:16:36 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scroll -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TC_001.page_test@59fd97a8]" started-at="2023-04-12T10:16:36 IST" name="close" finished-at="2023-04-12T10:16:37 IST" duration-ms="251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TC_001.page_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
